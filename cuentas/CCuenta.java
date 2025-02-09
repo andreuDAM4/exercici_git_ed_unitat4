@@ -1,6 +1,7 @@
 package cuentas;
 /**
  * Esta clase representa una cuenta bancaria.
+ * @author Andreu
  */
 public class CCuenta {
     /**

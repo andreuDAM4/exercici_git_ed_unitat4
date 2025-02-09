@@ -2,6 +2,7 @@ package cuentas;
 
 /**
  * Clase principal que ejecuta la operativa de la cuenta bancaria.
+ * @author Andreu
  */
 public class Main {
 
